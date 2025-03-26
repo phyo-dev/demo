@@ -49,10 +49,7 @@
 
 <br/>
 <h2>My Project List</h3>
-<ol>
-    <li> <h4>[Ecoment](https://nlt-eco.vercel.app)**</h4></li>
-    <li><h4>[HR-Payroll](https://hr-payroll-omega.vercel.app/)**</h4></li>
-</ol>
+
 <hr/>
 
 <br/>
